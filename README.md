@@ -1,5 +1,5 @@
 # WindowsPhone_HiddenLaunch
-Get HiddenLaunch on your Windows 10 (Mobile) device! 
+Get HiddenLaunch on your Windows 10 (Mobile) device.
 
 # Description
 I noticed that UWP apps are sometimes hidden on a Windows 10 (Mobile) device. This application indexes hidden applications and enables launching them from a clear application list.
